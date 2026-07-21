@@ -1,0 +1,4 @@
+interface:
+  display_name: "회사 보고서"
+  short_description: "PNG 승인 후 편집 가능한 회사 보고서 슬라이드를 제작합니다"
+  default_prompt: "Use $company-report to create a one-page company report slide and wait for PNG approval before exporting PPTX."

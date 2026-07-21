@@ -1,0 +1,29 @@
+{
+  "name": "company-report",
+  "version": "0.1.0",
+  "description": "Create approval-gated, editable 16:9 company report slides.",
+  "author": {
+    "name": "Company Report Skill Contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "company-report",
+    "presentation",
+    "powerpoint",
+    "korean"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Company Report",
+    "shortDescription": "승인형 16:9 회사 보고서 슬라이드 제작",
+    "longDescription": "요구사항과 구조를 먼저 합의하고, 편집 가능한 원본에서 PNG 시안을 승인받은 뒤 PPTX를 내보냅니다.",
+    "developerName": "Company Report Skill Contributors",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "회사 보고용 1페이지 요약 슬라이드를 만들어줘.",
+      "문제·이슈 보고서를 PNG 승인 후 PPTX로 만들어줘."
+    ],
+    "brandColor": "#F04444"
+  }
+}
