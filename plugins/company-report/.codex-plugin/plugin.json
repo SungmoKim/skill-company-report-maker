@@ -1,6 +1,6 @@
 {
   "name": "company-report",
-  "version": "0.2.0",
+  "version": "0.3.0+codex.20260721074124",
   "description": "Create approval-gated, editable 16:9 company report slides in ChatGPT Work and Codex.",
   "author": {
     "name": "Company Report Skill Contributors"
@@ -15,8 +15,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Company Report",
-    "shortDescription": "웹과 Codex에서 승인형 회사 보고서 제작",
-    "longDescription": "ChatGPT Work 또는 Codex에서 요구사항과 구조를 먼저 합의하고, 편집 가능한 원본의 PNG 시안을 승인받은 뒤 PPTX를 제공합니다.",
+    "shortDescription": "\uc6f9\uacfc Codex\uc5d0\uc11c \uc2b9\uc778\ud615 \ud68c\uc0ac \ubcf4\uace0\uc11c \uc81c\uc791",
+    "longDescription": "ChatGPT Work \ub610\ub294 Codex\uc5d0\uc11c \ubc88\ub4e4 \ub098\ub214\ubc14\ub978\uace0\ub515\uc744 \ub4f1\ub85d\ud558\uace0, \uad6c\uc870\uc640 PNG \uc2dc\uc548\uc744 \uc2b9\uc778\ubc1b\uc740 \ub4a4 \uac19\uc740 \ud3b8\uc9d1 \uac00\ub2a5\ud55c \uc6d0\ubcf8\uc758 PPTX\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
     "developerName": "Company Report Skill Contributors",
     "category": "Productivity",
     "capabilities": [
@@ -24,8 +24,8 @@
       "Write"
     ],
     "defaultPrompt": [
-      "회사 보고용 1페이지 요약 슬라이드를 만들어줘.",
-      "문제·이슈 보고서를 PNG 승인 후 PPTX로 만들어줘."
+      "\ud68c\uc0ac \ubcf4\uace0\uc6a9 1\ud398\uc774\uc9c0 \uc694\uc57d \uc2ac\ub77c\uc774\ub4dc\ub97c \ub9cc\ub4e4\uc5b4\uc918.",
+      "\ubb38\uc81c\u00b7\uc774\uc288 \ubcf4\uace0\uc11c\ub97c PNG \uc2b9\uc778 \ud6c4 PPTX\ub85c \ub9cc\ub4e4\uc5b4\uc918."
     ],
     "brandColor": "#F04444"
   }
