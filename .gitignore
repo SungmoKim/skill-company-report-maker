@@ -8,3 +8,11 @@ dist/
 build/
 *.tmp
 ~$*.pptx
+
+# Local plugin and end-to-end test artifacts
+/.local-tests/
+/test-output/
+/test-results/
+/artifacts/
+/renders/
+/exports/
