@@ -1,6 +1,6 @@
 {
   "name": "company-report",
-  "version": "0.3.0+codex.20260721151802",
+  "version": "0.3.0+codex.20260722143950",
   "description": "Create approval-gated, editable 16:9 company report slides in ChatGPT Work and Codex.",
   "author": {
     "name": "Company Report Skill Contributors"
